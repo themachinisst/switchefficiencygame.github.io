@@ -1,2 +1,2 @@
 # switchefficiencygame.github.io
-2D Maze game for Switch in unity
+2D Maze game for Switch built on Unity, using Navmesh.
